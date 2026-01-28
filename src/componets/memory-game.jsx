@@ -1,6 +1,24 @@
 
 export default function MemoryGame() {
   return (
-    <div>MemoryGame</div>
+    <div>
+      {/* heading */}
+      <div>
+
+      </div>
+      {/* grid input */}
+      <div>
+
+      </div>
+      {/* grid */}
+      <div>
+
+      </div>
+
+      {/* restart button */}
+      <div>
+
+      </div>
+    </div>
   )
 }
