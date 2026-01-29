@@ -2,7 +2,7 @@ import MemoryGame from "./componets/memory-game"
 
 export const App = () => {
   return (
-    <div>
+    <div >
     
       <MemoryGame />
       
